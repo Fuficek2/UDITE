@@ -2,7 +2,7 @@
 <osoby>
     <osoba osCislo='R1245'>
         <jmeno>Jan</jmeno>
-        <prijmeni>Novák</prijmeni>
+        <prijmeni>Plný</prijmeni>
         <stav>studuje</stav>
         <obor>KMI</obor>
         <rocnik>2</rocnik>
@@ -23,7 +23,7 @@
         </predmety>
     </osoba>
     <osoba osCislo='R1246'>
-        <jmeno>Hana</jmeno>
+        <jmeno>Jana</jmeno>
         <prijmeni>Holíková</prijmeni>
         <stav>nestuduje</stav>
         <obor>MATAP</obor>
